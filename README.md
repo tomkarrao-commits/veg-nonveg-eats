@@ -77,7 +77,7 @@ Originally designed with a lightweight prototype backend, the system has been tr
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/akshithsaiv-hub/veg-nonveg-eats.git
+git clone https://github.com/tomkarrao-commits/veg-nonveg-eats.git
 cd veg-nonveg-eats
 ```
 
